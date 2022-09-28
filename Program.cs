@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace helloworld
+namespace literalvalues
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("true");
+            Console.WriteLine("false");
         }
     }
 }
